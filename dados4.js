@@ -1,0 +1,1 @@
+const a = 3; // const é usado para variáveis que não alteram o valor. 
